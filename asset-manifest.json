@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SMIT_Hackathone/static/css/main.964fdded.css",
+    "main.js": "/SMIT_Hackathone/static/js/main.0e198e9b.js",
+    "static/js/787.4293f0da.chunk.js": "/SMIT_Hackathone/static/js/787.4293f0da.chunk.js",
+    "static/media/img1.jpg": "/SMIT_Hackathone/static/media/img1.b4c6e34c02ef047ebe48.jpg",
+    "static/media/img3.jpg": "/SMIT_Hackathone/static/media/img3.a9b96cd51e984087ff24.jpg",
+    "static/media/img2.jpg": "/SMIT_Hackathone/static/media/img2.17f2660c0440f52e18c3.jpg",
+    "static/media/logo.svg": "/SMIT_Hackathone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SMIT_Hackathone/index.html",
+    "main.964fdded.css.map": "/SMIT_Hackathone/static/css/main.964fdded.css.map",
+    "main.0e198e9b.js.map": "/SMIT_Hackathone/static/js/main.0e198e9b.js.map",
+    "787.4293f0da.chunk.js.map": "/SMIT_Hackathone/static/js/787.4293f0da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.0e198e9b.js"
+  ]
+}
